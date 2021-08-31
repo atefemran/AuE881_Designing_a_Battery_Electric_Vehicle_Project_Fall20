@@ -78,4 +78,4 @@ The following computational order is considered:
 #### Battery Range Calculations
 ![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme07.png?raw=true)
 
-More details, Please refer to the report pdf.
+### Please refer to the report pdf for more details
