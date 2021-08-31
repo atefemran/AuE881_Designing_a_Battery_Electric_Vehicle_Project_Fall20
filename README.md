@@ -62,19 +62,20 @@ The following computational order is considered:
 8.	Suspension Spring Constant and damping coefficient
 
 ### Code structure:
-
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme01.png?raw=true)
 
 ### Models Samples
 #### The Overall Model
-
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme02.png?raw=true)
 #### Road Load Submodel
-
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme03.png?raw=true)
 #### Tires Reactive Forces Submodel
-
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme04.png?raw=true)
 #### Driveline Submodel
-
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme05.png?raw=true)
 #### Electrical Motor Submodel
-
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme06.png?raw=true)
 #### Battery Range Calculations
+![-](https://github.com/atefemran/AuE881_Designing_a_Battery_Electric_Vehicle_Project/blob/main/images/readme07.png?raw=true)
 
 More details, Please refer to the report pdf.
