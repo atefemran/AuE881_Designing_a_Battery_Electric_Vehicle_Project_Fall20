@@ -1,5 +1,5 @@
 # AuE881_Designing_a_Battery_Electric_Vehicle_Project
-As part of AuE881 Automotive Systems Integration course, the final project was exploring the design of a battery electric vehicle using systems design approach.
+As part of AuE881 Automotive Systems Integration course (Fall 2021), the final project was exploring the design of a battery electric vehicle using systems design approach.
 
 ## [A] Problem Statement
 In this project, “design” an entire battery-electric vehicle! Given some system-level requirements, you will be asked to make design choices about six different subsystems and/or perspectives:
